@@ -1,6 +1,6 @@
 
 
-<img src="https://www.pinclipart.com/picdir/big/319-3198317_drum-comments-drum-logo-png-clipart.png" height="200" width="200">
+<img style="text-align:center" align="center" src="https://www.pinclipart.com/picdir/big/319-3198317_drum-comments-drum-logo-png-clipart.png" height="200" width="200">
 
 
 
