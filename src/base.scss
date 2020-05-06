@@ -16,7 +16,7 @@ body {
   height: 100%;
   margin: 0;
   padding: 0;
-  filter: brightness(30%);
+  filter: brightness(65%);
 }
 .container {
   width: 98%;
@@ -37,7 +37,8 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  transition: .1s;
+  transition: all .1s;
+  background-color: rgba(0,0,0,0.2);
 
   h2{
     font-size: 1.8em;
@@ -53,9 +54,11 @@ body {
     color: white;
   }
 
-  &:hover {
-    transform: scale(1.1);
-    border: 3px solid yellow;
-  }
+}
+
+.playing {
+  transform: scale(1.1);
+  border: 3px solid yellow;
+  box-shadow: -5px 0px 10px yellow;
 }
 
