@@ -18,6 +18,19 @@
 
 
 
+
+
+
+<h3>Preview</h3>
+
+
+
+```
+![](preview.gif)
+```
+
+
+
 <h3>Setup</h3>
 
 ```
