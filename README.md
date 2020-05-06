@@ -1,14 +1,13 @@
 <p align="center">
  <img src="https://www.pinclipart.com/picdir/big/319-3198317_drum-comments-drum-logo-png-clipart.png" height="200" width="200">
- <h1>Web Drum Kit</h1>
 </p>
 
-<p align="center">
- [![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger) ![Coverage Status](http://img.shields.io/coveralls/badges/badgerbadgerbadger.svg?style=flat-square)
-</p>
+<h1 align="center">Web Drum Kit</h1>
 
 <hr>
 
+[![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger)
+![Coverage Status](http://img.shields.io/coveralls/badges/badgerbadgerbadger.svg?style=flat-square)
 
 > Live Site : **https://elegant-ptolemy-2f8de3.netlify.app/**
 
