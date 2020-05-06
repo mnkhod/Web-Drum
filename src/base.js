@@ -1,3 +1,4 @@
+// Keyboard Functionality
 window.addEventListener('keydown',function(e){
   var audio = document.querySelector('audio[key="' + e.keyCode + '"]');
   var key = document.querySelector('div[key="' + e.keyCode + '"]');
@@ -21,4 +22,15 @@ keys.forEach(function(key){
 
     this.classList.remove('playing');
   })
+
+  // Click Functionality
+  key.addEventListener('click', function(e){
+    var el = this.getAttribute('key');
+
+    var certain_audio = document.querySelector('audio[key="' + el + '"]');
+
+    certain_audio.currentTime = 0;
+    certain_audio.play();
+    this.classList.add('playing');
+  });
 });
